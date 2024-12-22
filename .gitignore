@@ -1,0 +1,5 @@
+/bin
+/storage/storage.db
+/config/local.env
+/config/dev.env
+/config/prod.env
